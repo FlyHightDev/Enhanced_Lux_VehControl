@@ -7,8 +7,8 @@ I adapted Lux_VehControl to work with the server sided script that is provided i
 
 How to intall?
 
-_Unzip the package.
-_create a directory in your resources named [siren].
-_drag and drop both files into the directory.
-_start the resources in your server.cfg.
-_restart your server and you are good to go!
+Unzip the package
+create a directory in your resources named [siren]
+drag and drop both files into the directory
+start the resources in your server.cfg
+restart your server and you are good to go!
