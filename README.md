@@ -2,7 +2,7 @@
 
 I did not make the original script, I simply modifed them. All original credits go to Lt.Caine for his Luxart Vehicle Control and London Studios for the server sided siren script.
 
-I adapted Lux_VehControl to work with the server sided script that is provided in the file nad I added a fourth siren option to the script.
+I adapted Lux_VehControl to work with the server sided siren that is provided in the file and I added a fourth siren option to the script.
 
 
 How to intall?
