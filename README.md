@@ -41,3 +41,5 @@ start Enhanced_Lux_VehControl
 start wm-serversirens
 
 Effectuez un restart de votre serveur et vous êtes bon!
+
+PS: si vous avez déjà Lux_vehcontrol d'intallé sur le serveur, supprimez le car sinon cela vas rentrer en conflit
