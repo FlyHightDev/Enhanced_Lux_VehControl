@@ -23,7 +23,7 @@ Restart your server and you are good to go!
 
 VF:
 
-Je n'ai pas les script originaux, Je les ai simplement modifié. Tout les crédit pour les scripts originaux vontà Lt.Caine pour son script Luxart Vehicle Control and London Studios pour leur script de sirène custom.
+Je n'ai pas les script originaux, Je les ai simplement modifié. Tout les crédit pour les scripts originaux vont à Lt.Caine pour son script Luxart Vehicle Control et London Studios pour leur script de sirène custom.
 
 J'ai adapté Lux_Vehcontrol pour marcher avec wm-serversirens et j'ai ajouté une 4 ième option de sirène au script.
 
