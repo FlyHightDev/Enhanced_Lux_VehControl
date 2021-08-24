@@ -1,6 +1,6 @@
 # Enhanced_Lux_VehControl
 
-I did not make the original script, I simply modifed them. All original credits go to Lt.Caine for his Luxart Vehicle Control and London Studios for the server sided siren script.
+I did not make the original script, I simply modifed them. All original credits go to Lt.Caine for his Luxart Vehicle Control and London Studios & Walshey for the server sided siren script.
 
 I adapted Lux_VehControl to work with wm-serversirens and I added a fourth siren option to the script.
 
